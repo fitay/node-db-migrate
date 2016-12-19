@@ -1,7 +1,7 @@
 {
-  "name": "db-migrate",
-  "description": "Database migration framework for node.js",
-  "author": "Tobias Gurtick",
+  "name": "fitay-db-migrate",
+  "description": "Database migration framework for node.js forked from db-migrate/node-db-migrate",
+  "author": "Itay Friedman",
   "bin": "./bin/db-migrate",
   "keywords": [
     "database",
@@ -36,12 +36,12 @@
     "node": ">=0.6.0"
   },
   "bugs": {
-    "url": "https://github.com/db-migrate/node-db-migrate/issues"
+    "url": "https://github.com/fitay/node-db-migrate/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/db-migrate/node-db-migrate.git"
+    "url": "https://github.com/fitay/node-db-migrate.git"
   },
   "dependencies": {
     "balanced-match": "^0.4.2",
